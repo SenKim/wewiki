@@ -3,26 +3,20 @@
 
 .searchForm{
     display: table;
-    position: absolute;
-<<<<<<< HEAD
-    left: 30%;
-=======
     align-items: center;
->>>>>>> 06085776b29459852450d7e0d6167d698f093f71
     top: 200px;
     width : 300px;
     height: 18px;
+    margin-left : auto;
+    margin-right: auto;
 
 }
 
-<<<<<<< HEAD
-=======
 .searchBox{
     width : 300px;
 }
 
 
->>>>>>> 06085776b29459852450d7e0d6167d698f093f71
 body{
     background-color: #F8F8F8;
 }
